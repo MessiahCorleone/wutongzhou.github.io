@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Tongzhou Wu, a second-year Ph.D. candidate at City University of Hong Kong (CityU), supervised by <a href='https://zhaoxyai.github.io/'>Professor. Xiangyu Zhao</a> of the <a href='https://aml-cityu.github.io/'>Applied Machine Learning Lab (AML Lab)</a>.
+I am Tongzhou Wu, a second-year Ph.D. candidate at City University of Hong Kong (CityU), supervised by <a href='https://zhaoxyai.github.io/'>Professor. Xiangyu Zhao</a>(赵翔宇副教授) of the <a href='https://aml-cityu.github.io/'>Applied Machine Learning Lab (AML Lab)</a>.
 
-I obtained my Master's degree from the <a href='https://ai.ucas.ac.cn/index.php/zh-cn/'>School of Artificial Intelligence</a>, University of Chinese Academy of Sciences (中国科学院大学人工智能学院). My graduate research spanning three years was conducted at the <a href='https://nlpr.ia.ac.cn/en/'>National Laboratory of Pattern Recognition (NLPR)</a>(中国科学院大学自动化研究所), under the supervision of <a href='https://people.ucas.ac.cn/~wangliang'>Professor. Liang Wang</a> and <a href='https://people.ucas.edu.cn/~qiangliu'>Professor. Qiang Liu</a>.
+I obtained my Master's degree from the <a href='https://ai.ucas.ac.cn/index.php/zh-cn/'>School of Artificial Intelligence</a>, University of Chinese Academy of Sciences (中国科学院大学人工智能学院). My graduate research spanning three years was conducted at the <a href='https://nlpr.ia.ac.cn/en/'>National Laboratory of Pattern Recognition (NLPR)</a>(中国科学院大学自动化研究所), under the supervision of <a href='https://people.ucas.ac.cn/~wangliang'>Professor. Liang Wang</a>(王亮教授) and <a href='https://people.ucas.edu.cn/~qiangliu'>Professor. Qiang Liu</a>(刘强教授).
 
 My current research interests primarily lie in the areas of Recommendation Systems, Large Language Models (LLMs), and Deep Learning.
 
