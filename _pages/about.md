@@ -19,7 +19,9 @@ redirect_from:
 
 I am Tongzhou Wu, a second-year Ph.D. candidate at City University of Hong Kong (CityU), supervised by <a href='https://zhaoxyai.github.io/'>Professor. Xiangyu Zhao</a> of the <a href='https://aml-cityu.github.io/'>Applied Machine Learning Lab (AML Lab)</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I obtained my Master's degree from the <a href='https://ai.ucas.ac.cn/index.php/zh-cn/'>School of Artificial Intelligence</a>, University of Chinese Academy of Sciences (中国科学院大学人工智能学院). My graduate research spanning three years was conducted at the <a href='https://nlpr.ia.ac.cn/en/'>National Laboratory of Pattern Recognition (NLPR)</a>(中国科学院大学自动化研究所), under the supervision of <a href='https://people.ucas.ac.cn/~wangliang'>Professor. Liang Wang</a> and <a href='https://people.ucas.edu.cn/~qiangliu'>Professor. Qiang Liu</a>.
+
+My current research interests primarily lie in the areas of Recommendation Systems, Large Language Models (LLMs), and Deep Learning.
 
 
 # 🔥 News
