@@ -25,8 +25,8 @@ My current research interests primarily lie in the areas of Recommendation Syste
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 One Paper is accepted by CIKM Full Research Papers. 
+- *2024.09*: &nbsp;🎉🎉 Start my PhD study at CityU. 
 
 # 📝 Publications 
 
